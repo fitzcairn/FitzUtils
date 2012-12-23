@@ -1,4 +1,4 @@
 FitzUtils
 =========
 
-A number of shared lua utilities for writing World of Warcraft addons.
+A number of shared lua utilities for writing World of Warcraft addons, plus unit tests.
